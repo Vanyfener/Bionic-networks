@@ -3,8 +3,8 @@
   "WorkspaceRootPath": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\RimWorld\\Mods\\Bionic-networks\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{D7D21B4A-1DA7-41D8-B202-C58CA8FA62AA}|Source\\BionicNetworks.csproj|C:\\Program Files (x86)\\Steam\\steamapps\\common\\RimWorld\\Mods\\Bionic-networks\\source\\bionicnetworks.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D7D21B4A-1DA7-41D8-B202-C58CA8FA62AA}|Source\\BionicNetworks.csproj|solutionrelative:source\\bionicnetworks.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{D7D21B4A-1DA7-41D8-B202-C58CA8FA62AA}|Source\\BionicNetworks.csproj|c:\\program files (x86)\\steam\\steamapps\\common\\rimworld\\mods\\bionic-networks\\source\\events\\incidentworker_sayhello.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D7D21B4A-1DA7-41D8-B202-C58CA8FA62AA}|Source\\BionicNetworks.csproj|solutionrelative:source\\events\\incidentworker_sayhello.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -19,14 +19,14 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "BionicNetworks.cs",
-              "DocumentMoniker": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\RimWorld\\Mods\\Bionic-networks\\Source\\BionicNetworks.cs",
-              "RelativeDocumentMoniker": "Source\\BionicNetworks.cs",
-              "ToolTip": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\RimWorld\\Mods\\Bionic-networks\\Source\\BionicNetworks.cs",
-              "RelativeToolTip": "Source\\BionicNetworks.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAFAAAA",
+              "Title": "IncidentWorker_SayHello.cs",
+              "DocumentMoniker": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\RimWorld\\Mods\\Bionic-networks\\Source\\Events\\IncidentWorker_SayHello.cs",
+              "RelativeDocumentMoniker": "Source\\Events\\IncidentWorker_SayHello.cs",
+              "ToolTip": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\RimWorld\\Mods\\Bionic-networks\\Source\\Events\\IncidentWorker_SayHello.cs",
+              "RelativeToolTip": "Source\\Events\\IncidentWorker_SayHello.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAQwAwAAAA+AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-30T17:55:30.216Z",
+              "WhenOpened": "2024-07-31T08:50:56.777Z",
               "EditorCaption": ""
             }
           ]

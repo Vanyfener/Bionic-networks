@@ -1,10 +1,8 @@
 <ModMetaData>
-	<name>bionics</name>
+	<name>Bionic Networks</name>
 	<author>TheSuspectOne, Dimoniyy</author>
-    <packageId></packageId>
 	<supportedVersions>
 		<li>1.5</li>
 	</supportedVersions>
 	<description>Adds special type of bionics that affects the whole body instead of replacing body parts.</description>
-	<url></url>
 </ModMetaData>

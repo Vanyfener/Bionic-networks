@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Defs>
+
+  <IncidentDef>
+    <defName>SayHello</defName>
+    <label>Say hello.</label>
+    <category>Misc</category>
+    <targetTags>
+      <li>Map_PlayerHome</li>
+    </targetTags>
+    <workerClass>BionicNetworks.Events.IncidentWorker_SayHello</workerClass>
+    <baseChance>1.0</baseChance>
+  </IncidentDef>
+  
+</Defs>
