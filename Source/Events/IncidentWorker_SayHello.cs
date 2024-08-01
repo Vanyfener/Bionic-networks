@@ -1,7 +1,5 @@
-﻿using System;
-using Verse;
+﻿using Verse;
 using RimWorld;
-using Verse.Noise;
 
 namespace BionicNetworks.Events
 {
@@ -15,26 +13,27 @@ namespace BionicNetworks.Events
         {
             Map map = (Map)parms.target;
             int colonistMapCount = map.mapPawns.ColonistCount;
-            if (colonistMapCount > COLONIST_AMOUNT_TO_DO_THE_THING)
+            if (colonistMapCount < COLONIST_AMOUNT_TO_DO_THE_THING)
             {
                 Log.Message($"There are more than {COLONIST_AMOUNT_TO_DO_THE_THING} 🤯!" +
                     $"💖 Also i would like to say that you have {colonistMapCount} colonists 💖!");
-                return true;
+                return false;
             }
-            return false;
+            return true;
         }
         protected override bool TryExecuteWorker(IncidentParms parms)
         {
             Map map = (Map)parms.target;
-            int colonistMapCount = map.mapPawns.ColonistCount;
-            if (colonistMapCount > COLONIST_AMOUNT_TO_DO_THE_THING)
+            LookTargets lookTargets = new LookTargets();
+            foreach (var pawn in map.mapPawns.FreeColonists)
             {
-                Log.Message($"There are more than {COLONIST_AMOUNT_TO_DO_THE_THING} 🤯!" +
-                    $"💖 Also i would like to say that you have {colonistMapCount} colonists 💖!");
-                return true;
+                lookTargets.targets.Add(pawn);
+                Log.Message(pawn.NameFullColored);
             }
-            Log.Message("EXECUTE");
-            return false;
+
+            SendStandardLetter(parms, lookTargets, "AAAAAAAAAAAAAAA");
+
+            return true;
         }
     }
 }

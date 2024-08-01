@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Defs>
+
+  <IncidentDef>
+    <defName>Eclipse</defName>
+    <label>eclipse</label>
+    <category>Misc</category>
+    <targetTags>
+      <li>World</li>
+    </targetTags>
+    <workerClass>BionicNetworks.Events.GameCondition_ConditionToSayHello</workerClass>
+    <gameCondition>Eclipse</gameCondition>
+    <letterLabel>Eclipse</letterLabel>
+    <letterDef>NegativeEvent</letterDef>
+    <baseChance>1.5</baseChance>
+    <minRefireDays>15</minRefireDays>
+    <durationDays>0.75~1.25</durationDays>
+    <tale>Eclipse</tale>
+  </IncidentDef>
+
+</Defs>

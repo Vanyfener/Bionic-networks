@@ -3,7 +3,10 @@
 
   <IncidentDef>
     <defName>SayHello</defName>
-    <label>Say hello.</label>
+    <label>Howdy</label>
+	<letterLabel>Say Hello To You</letterLabel>
+    <letterText>Saying hello is pretty common among beginner programmers</letterText>
+	<letterDef>ThreatBig</letterDef>
     <category>Misc</category>
     <targetTags>
       <li>Map_PlayerHome</li>

@@ -42,6 +42,7 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Events\GameCondition_ConditionToSayHello.cs" />
     <Compile Include="Events\IncidentWorker_SayHello.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>

@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+  <!-- EN: SayHello -->
+  <SayHello.label>Приветствую, Славянин.</SayHello.label>
+  <!-- EN: Say Hello To You -->
+  <SayHello.letterLabel>Славянский привет от модера</SayHello.letterLabel>
+  <!-- EN: Saying hello is pretty common among beginner programmers -->
+  <SayHello.letterText>Славянин! Мы всегда рады поприветсвовать своих соотечественников!</SayHello.letterText>
+  
+</LanguageData>
