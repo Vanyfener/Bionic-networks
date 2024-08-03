@@ -2,20 +2,20 @@
 <Defs>
 
   <IncidentDef>
-    <defName>Eclipse</defName>
-    <label>eclipse</label>
+    <defName>HelloCondition</defName>
+    <label>hellocondition</label>
     <category>Misc</category>
     <targetTags>
       <li>World</li>
     </targetTags>
     <workerClass>BionicNetworks.Events.GameCondition_ConditionToSayHello</workerClass>
-    <gameCondition>Eclipse</gameCondition>
-    <letterLabel>Eclipse</letterLabel>
+    <gameCondition>HelloCondition</gameCondition>
+    <letterLabel>I dont want to be bitten</letterLabel>
+	<letterText>1234.</letterText>
     <letterDef>NegativeEvent</letterDef>
     <baseChance>1.5</baseChance>
     <minRefireDays>15</minRefireDays>
     <durationDays>0.75~1.25</durationDays>
-    <tale>Eclipse</tale>
   </IncidentDef>
 
 </Defs>

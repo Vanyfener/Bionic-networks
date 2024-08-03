@@ -7,7 +7,7 @@
       "RelativeMoniker": "D:0:0:{D7D21B4A-1DA7-41D8-B202-C58CA8FA62AA}|Source\\BionicNetworks.csproj|solutionrelative:source\\events\\gamecondition_conditiontosayhello.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D7D21B4A-1DA7-41D8-B202-C58CA8FA62AA}|Source\\BionicNetworks.csproj|c:\\program files (x86)\\steam\\steamapps\\common\\rimworld\\mods\\bionic-networks\\source\\events\\incidentworker_sayhello.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{D7D21B4A-1DA7-41D8-B202-C58CA8FA62AA}|Source\\BionicNetworks.csproj|C:\\Program Files (x86)\\Steam\\steamapps\\common\\RimWorld\\Mods\\Bionic-networks\\source\\events\\incidentworker_sayhello.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D7D21B4A-1DA7-41D8-B202-C58CA8FA62AA}|Source\\BionicNetworks.csproj|solutionrelative:source\\events\\incidentworker_sayhello.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -28,7 +28,7 @@
               "RelativeDocumentMoniker": "Source\\Events\\GameCondition_ConditionToSayHello.cs",
               "ToolTip": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\RimWorld\\Mods\\Bionic-networks\\Source\\Events\\GameCondition_ConditionToSayHello.cs",
               "RelativeToolTip": "Source\\Events\\GameCondition_ConditionToSayHello.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAA0AAAA",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAYAAAA0AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-08-01T16:54:40.925Z",
               "EditorCaption": ""
@@ -43,8 +43,7 @@
               "RelativeToolTip": "Source\\Events\\IncidentWorker_SayHello.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-31T08:50:56.777Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-31T08:50:56.777Z"
             }
           ]
         }
