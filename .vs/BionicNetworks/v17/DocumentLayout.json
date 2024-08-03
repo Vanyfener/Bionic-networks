@@ -28,7 +28,7 @@
               "RelativeDocumentMoniker": "Source\\Events\\GameCondition_ConditionToSayHello.cs",
               "ToolTip": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\RimWorld\\Mods\\Bionic-networks\\Source\\Events\\GameCondition_ConditionToSayHello.cs",
               "RelativeToolTip": "Source\\Events\\GameCondition_ConditionToSayHello.cs",
-              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAYAAAA0AAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAABDAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-08-01T16:54:40.925Z",
               "EditorCaption": ""
@@ -43,7 +43,8 @@
               "RelativeToolTip": "Source\\Events\\IncidentWorker_SayHello.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-31T08:50:56.777Z"
+              "WhenOpened": "2024-07-31T08:50:56.777Z",
+              "EditorCaption": ""
             }
           ]
         }

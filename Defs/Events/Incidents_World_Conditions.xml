@@ -3,7 +3,7 @@
 
   <IncidentDef>
     <defName>HelloCondition</defName>
-    <label>hellocondition</label>
+    <label>Helllo</label>
     <category>Misc</category>
     <targetTags>
       <li>World</li>

@@ -4,6 +4,9 @@ using RimWorld;
 
 namespace BionicNetworks.Events
 {
+    /// <summary>
+    /// Condition to damage player pawns every 1000 in-game ticks and printing Hello in the log
+    /// </summary>
     internal class GameCondition_ConditionToSayHello: GameCondition
     {
         public override void Init()
